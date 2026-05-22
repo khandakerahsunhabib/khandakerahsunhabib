@@ -1,140 +1,72 @@
-# Hi there 👋 I'm Ahsun Habib
+# 👋 Hi, I'm Khandaker Ahsun Habib
+### 🚀 Mobile App Developer | Front-End Specialist | Tech Enthusiast
 
-<div align="center">
+<p align="left">
+  <a href="https://github.com/khandakerahsunhabib"><img src="https://img.shields.io/github/followers/khandakerahsunhabib?label=Follow&style=social" alt="GitHub Followers"></a>
+</p>
 
-# 🚀 Flutter Developer | Web Developer | Problem Solver
+I am a dedicated **Mobile Application Developer** specializing in the **Flutter & Dart** ecosystem, backed by a strong foundation in **Front-End Web Development**. I am passionate about building cross-platform, high-performance applications focused on Clean Architecture, responsive UI/UX, and ultimate optimization. 
 
-💡 Passionate about building modern mobile & web applications
-🌱 Currently learning Backend Development & System Design
-🇧🇩 Based in Bangladesh
-
-</div>
-
----
-
-# 🧑‍💻 About Me
-
-I enjoy building clean, responsive, and user-friendly applications using Flutter and modern web technologies. I love solving real-world problems through technology and continuously improving my development skills.
-
-### 🔥 Current Focus
-
-* Flutter Mobile & Web Apps
-* Clean Architecture & State Management
-* Backend Integration
-* API Development
-* Chrome Extension Development
-* UI/UX Improvement
+Beyond core engineering, I leverage a multi-disciplinary skillset that includes digital marketing basics, professional content writing, and video editing to approach digital product building from a holistic perspective.
 
 ---
 
-# 🚀 Tech Stack
+### 🧑‍💻 About Me
 
-## Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-
-## Backend & Database
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-## Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-## Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
+- 🌍 **Based in:** Bangladesh 🇧🇩
+- 💼 **Current Focus:** Advanced Flutter & Cross-Platform Systems
+- 🧠 **Learning & Exploring:** Backend Development, System Design, and Scalable App Architecture
+- ⚡ **Development Philosophy:** Write clean code, optimize performance, keep learning, and create real-world impact.
 
 ---
 
-# 🌟 Featured Projects
+### 🛠️ Tech Arsenal
 
-## 📱 Moumachi App
-
-A business listing platform with modern UI, real-time image upload progress notifications, and listing management system.
-
-### Features
-
-* Real-time upload progress notification
-* Listing management
-* Business details system
-* Additional photo upload support
-* Responsive Flutter UI
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile Development** | `Flutter` `Dart` `State Management (Bloc/Provider/GetX)` `Clean Architecture` |
+| **Web & Front-End** | `HTML5` `CSS3` `JavaScript` `Bootstrap` `Chrome Extensions` |
+| **Backend & Databases**| `RESTful APIs` `Firebase` `SQLite` `Local Storage` |
+| **Tools & Platforms** | `Git & GitHub` `VS Code` `Android Studio` `Postman` |
+| **Creative Multi-Media**| `Video Editing (Filmora/Corel)` `Content Writing` `Digital Marketing Basics` |
 
 ---
 
-## 🖼️ Image Name Finder Extension
+### 🌟 Featured Projects
 
-A Chrome extension for analyzing image information and handling image-related utilities.
+#### 📱 Moumachi
+A modern, highly optimized business listing and directory mobile application.
+- **Key Features:** Real-time upload progress for imagery, custom push notifications, robust listing management, and a highly responsive custom Flutter UI.
 
-### Features
+#### 🌸 Shapla Foundation
+A community-driven digital application focused on transparency and impact tracking.
+- **Key Features:** Clean architecture data-flow, interactive dashboarding, responsive layout structures, and secure API integrations.
 
-* Image metadata checking
-* Image analysis tools
-* Browser integration
+#### 🩺 Medi Guide
+A healthcare utility and guide app designed for seamless navigation of medical resources.
+- **Key Features:** Fast local caching, dynamic filtering, state-driven search logic, and an intuitive UI/UX framework.
 
----
+#### 📍 Location Index
+A location-tracking and directory utility mapping specialized geo-indices.
+- **Key Features:** GPS & Map integration, optimized state management for map rendering, and robust search filters.
 
-# 📈 GitHub Stats
+#### 📝 Task Manager
+A productivity-focused tool built to structure workflows and track goals seamlessly.
+- **Key Features:** Interactive local persistence, smooth state management workflows, and a minimalist UI.
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight)
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-* Clean Architecture (TDD)
-* Advanced Flutter State Management
-* Backend Development
-* API Security
-* Scalable App Architecture
-* System Design
+#### 🖼️ Image Name Finder (Chrome Extension)
+A utility extension focused on lightweight browser performance and image analysis.
+- **Key Features:** Fast image metadata scanning, browser-context action hooks, and dynamic data presentation.
 
 ---
 
-# 🎯 Goals
+### 📊 GitHub Analytics
 
-* Build high-quality production-ready applications
-* Contribute to open-source projects
-* Improve software architecture knowledge
-* Create impactful digital products
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=khandakerahsunhabib&show_icons=true&theme=tokyonight&count_private=true" alt="Ahsun's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandakerahsunhabib&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
 
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](YOUR_FACEBOOK_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](YOUR_PORTFOLIO_LINK)
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=blue)
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-💻 Always learning, building, and improving.
-
-</div>
+### 🐍 Contribution Activity
+```myth
+# This section will render your green contribution snake if you hook up the GitHub Action workflow!
