@@ -83,6 +83,15 @@ I am always open to discussing mobile app development, cross-platform architectu
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+### 🐍 Contribution Activity
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khandakerahsunhabib/khandakerahsunhabib/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khandakerahsunhabib/khandakerahsunhabib/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/khandakerahsunhabib/khandakerahsunhabib/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ```javascript
 while (alive) {
    learn();
