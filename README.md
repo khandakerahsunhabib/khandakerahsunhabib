@@ -65,10 +65,9 @@ What sets me apart is my multi-disciplinary background: I combine my technical e
 
 ### 📈 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khandakerahsunhabib&show_icons=true&theme=radium&hide_border=true" alt="Ahsun's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandakerahsunhabib&layout=compact&theme=radium&hide_border=true" alt="Top Languages" height="160"/>
-</p>
+![Ahsun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khandakerahsunhabib&show_icons=true&theme=radium&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khandakerahsunhabib&layout=compact&theme=radium&hide_border=true)
 
 ### 🤝 Let's Connect!
 
