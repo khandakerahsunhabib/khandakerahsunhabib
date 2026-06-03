@@ -5,7 +5,7 @@
   <a href="https://github.com/khandakerahsunhabib?tab=followers"><img src="https://img.shields.io/github/followers/khandakerahsunhabib?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"></a>
 </p>
 
-### 🚀 Mobile App Developer | Front-End Specialist | Problem Solver
+### 🚀 Mobile App Developer
 
 I am a software developer from Bangladesh 🇧🇩 specializing in the **Flutter & Dart** ecosystem, with a strong background in **Modern Front-End Web Development**. I love transforming complex problems into clean, high-performing, and responsive user interfaces. 
 
