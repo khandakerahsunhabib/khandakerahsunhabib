@@ -58,11 +58,11 @@ What sets me apart is my multi-disciplinary background: I combine my technical e
 | :--- | :--- | :--- |
 | **📱 Moumachi App** | A modern business directory built with Flutter. | Real-time image uploads, push notifications, robust listing management, and responsive UI. |
 | **🌸 Shapla Foundation** | A community-driven application for impact tracking. | Clean architecture, interactive dashboard, secure API data flow. |
-| **🩺 Medi Guide** | A healthcare utility app for seamless medical navigation. | Fast local caching, dynamic filtering, state-driven search logic. |
-| **📍 Location Index** | A geo-index utility mapping application. | GPS & map integration, optimized rendering, search filters. |
-| **📝 Task Manager** | A minimalist productivity tool to structure workflows. | Interactive local persistence, smooth state management. |
-| **🔐 Personal Password Manager**| Securely store and manage your passwords with zero-knowledge encryption. Your data is encrypted before it leaves your device, ensuring that only you have access to your sensitive information. |
-| **✅ ToDo App & Expense Tracker**| Track your daily income and expenses, monitor spending patterns, and manage your budget with ease. |
+| **🩺 Medi Guide** | A healthcare utility app for seamless medical navigation. | Fast local caching, PDF book reading, Book purchase system, and search in PDF |
+| **📍 Location Index** | A Location ranking application based on multiple key factors. | Location Ranking, Mode creation, Various Key Factors |
+| **📝 Task Manager** | A minimalist productivity tool to structure workflows. | Add your daily task, Set priority |
+| **🔐 Personal Password Manager**| Securely store and manage your passwords with zero-knowledge encryption.| Your data is encrypted before it leaves your device, ensuring that only you have access to your sensitive information. |
+| **✅ ToDo App & Expense Tracker**| Track your daily income and expenses| Monitor spending patterns, and manage your budget with ease. |
 | **🖼️ Image Name Finder**| A lightweight Chrome extension for image utility. | Fast metadata scanning, browser-context action hooks, image analysis tools. |
 
 ### 📈 GitHub Analytics
